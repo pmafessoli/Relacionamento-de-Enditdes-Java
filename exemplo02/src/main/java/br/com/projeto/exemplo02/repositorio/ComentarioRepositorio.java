@@ -7,5 +7,4 @@ import br.com.projeto.exemplo02.modelo.Comentario;
 
 @Repository
 public interface ComentarioRepositorio extends CrudRepository<Comentario, Long> {
-
 }
